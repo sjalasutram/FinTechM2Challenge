@@ -13,7 +13,7 @@ This project leverages python 3.7.13 with the following packages:
 * [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
 
 The Loan Qualifier CLI uses the following data files if a rate sheet file location is not provided at input
-* [daily_rate_sheet.csv](data/daily_rate_sheet.csv)
+* [daily_rate_sheet.csv](loan_qualifier_app/data/daily_rate_sheet.csv)
 
 The output file is named as qualifying_loans.csv and is written to a folder whose name is entered by the user
 
@@ -37,8 +37,9 @@ To use the loan qualifier application simply clone the repository and run the **
 ```python
 python app.py
 ```
-The first user input appears as below
-![rate sheet default value illusrtation](images/rate_sheet_default.jpg)
+The first user input appears as
+
+![rate sheet default value illustration](loan_qualifier_app/images/rate_sheet_default.jpg)
 
 ---
 
