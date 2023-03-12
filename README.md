@@ -13,6 +13,9 @@ This project leverages python 3.7.13 with the following packages:
 
 * [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
 
+The Loan Qualifier CLI uses the following data files
+[data/daily_rate_sheet.csv] (data/daily_rate_sheet.csv)
+
 ---
 
 ## Installation Guide
@@ -38,7 +41,7 @@ python app.py
 
 ## Contributors
 
-**Sreedhar Jalasutram**
+*Sreedhar Jalasutram*
 ---
 
 ## License
