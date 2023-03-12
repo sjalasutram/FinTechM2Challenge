@@ -1,0 +1,50 @@
+  111  git status
+  112  git commit -m "Saving REAME.md work"
+  113  git add -A
+  114  git commit -m "Saving REAME.md work"
+  115  git status
+  116  git push
+  117  git status
+  118  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app\README.md" .
+  119  git add -A
+  120  git commit -m "Added more description to the README.md file"
+  121  git push
+  122  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app\README.md" .
+  123  git add -A
+  124  git commit -m "Added data file requirements in the Technologies section"
+  125  git push
+  126  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app\README.md" .
+  127  git add -A
+  128  git commit -m "Formatted README.md"
+  129  git push
+  130  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app\README.md" .
+  131  git add -A
+  132  git commit -m "added email address under the Contributors section"
+  133  git push
+  134  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app\README.md" .
+  135  git add -A
+  136  git commit -m "added details about qualifying_loans.csv file"
+  137  git push
+  138  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app\README.md" .
+  139  git add -A
+  140  git commit -m "added image for illustrating default rate sheet file"
+  141  git push
+  142  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app .
+  143  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app" .
+  144  ls -ltr
+  145  cp -r "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app" .
+  146  ls -ltr
+  147  git add -A
+  148  git commit -m "adding Loan Qualifier CLI program units"
+  149  git push
+  150  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app\README.md" .
+  151  git add -A
+  152  git commit -m "adjusted the path for the daily_rate_sheet.csv and the images file"
+  153  git push
+  154  git status
+  155  git pull origin main
+  156  cp "C:\Sreedhar\Rice\FinTech\Weekly Challenges\Challenge2\Starter_Code\loan_qualifier_app\README.md" .
+  157  git add -A
+  158  git commit -m "adjusted the path for the daily_rate_sheet.csv and the images file"
+  159  git push
+  160  history 50 > terminal_history.txt
