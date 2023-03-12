@@ -43,7 +43,7 @@ The first user input appears as
 
 The Loan Qualifier CLI prompts for user input of the path where the file should be saved.
 The tool output appears as:
-![Loan Qualifier CLI save file](images/qualifying_loans_illustration.jpg)
+![Loan Qualifier CLI save file](loan_qualifier_app/images/qualifying_loans_illustration.jpg)
 
 
 ---
