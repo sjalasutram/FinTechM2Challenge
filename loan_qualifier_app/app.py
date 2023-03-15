@@ -135,7 +135,10 @@ def save_qualifying_loans(qualifying_loans):
         file_path = Path(questionary.text("Enter a file path to store the qualifying loans CSV file:").ask())
         if not file_path.exists():
             sys.exit(f"Oops! Can't find this path: {file_path}")
-        csv_file_name = 'qualifying_loans.csv'
+        # commenting the hard coded file name as part of the review comment during grading
+        # csv_file_name = 'qualifying_loans.csv'
+        # taking the name of the file from user input
+        csv_file_name = questionary.text("Enter the name of the file where you wish to save the data ").ask()
         csvpath = Path(file_path).joinpath(csv_file_name)
         # because header row was skipped at the time of reading the csv file, the header is being hard coded in this assignment
         save_csv(csvpath, qualifying_loans,["Lender Name", "Loan Maximum", "Loan to Value", "Debt to Income", "Credit Minimum, APR%"])
